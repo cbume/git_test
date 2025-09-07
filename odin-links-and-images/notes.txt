@@ -1,0 +1,18 @@
+Paragraph element
+Head element
+encoding element - charset="UTF-8"
+Body element
+heading elemetns
+Strong element - bold font
+Em element - italics
+unordered and ordered lists
+anchor element with href attribute for hyperlinks <a href="https://www.theodinproject.com/about">About The Odin Project</a>
+target and rel attributes in anchor = <a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferrer">About The Odin Project</a>
+noopener value of rel ensure that a link opened in a new tab cannot interact or access the original page. Without it, the new page can use JavaScript to manipulate the original page, which poses a security risk (tabnabbing).
+
+Relative and Absolute links. Absolute link - scheme://domain/path
+Redirecting broken links by defining the relative links path such as ./pages/about.html
+
+void elements like <img> don't need closing tags
+
+src attribute - just like href. Can embed image using absolute or relative paths
